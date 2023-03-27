@@ -7,7 +7,8 @@ import streamlit as st
 """
 # Testing CI/CD Streamlit!
 
-This is a test case app for a continuous integration and continous deployment local repository.
+This is a test case streamlit app for a continuous integration and continous deployment local repository.
+
 """
 
 with st.echo(code_location='below'):
