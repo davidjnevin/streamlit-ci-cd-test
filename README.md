@@ -1,2 +1,3 @@
-# streamlit-ci-cd-test
-# streamlit-ci-cd-test
+# Streamlit CI/CD Test
+
+A test case for CI/CD setup using a Streamlit examaple app in a docer container.
