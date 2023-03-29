@@ -1,3 +1,3 @@
 # Streamlit CI/CD Test
 
-A test case for CI/CD setup using a Streamlit examaple app in a docer container.
+A test CI/CD setup using the Streamlit example app in a docker container on a linode VPS.
