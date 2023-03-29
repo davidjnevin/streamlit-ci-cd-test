@@ -30,7 +30,7 @@ jobs:
         # passphrase
         passphrase: ${{ secrets.VPS_SSH_PASSPHRASE }}
         script: |
-          cd ${{ secrets.PROJECT_PATH }}
+          cd ${{ secrets.VPS_PROJECT_PATH }}
           git pull origin main
           make down
           make build
