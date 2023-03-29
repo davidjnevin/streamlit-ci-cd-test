@@ -7,7 +7,10 @@ import streamlit as st
 """
 # Testing CI/CD Streamlit!
 
-This is private test case streamlit app for a continuous integration and continous deployment local repository.
+This is test case streamlit app for a continuous integration and continous deployment local repository.
+Upon push, the associated github actions, via ssh, trigger a git pull followed by a docker build command.
+
+For details please visit [https://davidjnevin.com/code/ci_cd_docker_linode_vps_test/](https://davidjnevin.com/code/ci_cd_docker_linode_vps_test/)
 
 """
 
